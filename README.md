@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Grievance Grabber - Backend scaffold (Java Spring Boot)
 =======================================================
 
@@ -38,3 +39,7 @@ This scaffold is meant as a starting point. If you want, I can:
 - Wire Config Server to read from a git repo.
 - Add sample data and Postman collection.
 
+=======
+# grievance-grabber-backend
+Backend application which handles grievances and employees will resolve that
+>>>>>>> 2c243ad6338a66c516b7cfca2d42c1496c876b60
