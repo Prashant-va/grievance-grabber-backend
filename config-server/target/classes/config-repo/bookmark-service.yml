@@ -1,0 +1,13 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: bookmark-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/bookmark_db?createDatabaseIfNotExist=true&serverTimezone=UTC
+    username: root
+    password: Pavitra@22
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

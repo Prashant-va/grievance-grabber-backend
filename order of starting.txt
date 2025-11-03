@@ -1,0 +1,9 @@
+| Order | Microservice          | Port | Description                       |
+| ----- | --------------------- | ---- | --------------------------------- |
+| 1     | **discovery-server**  | 8761 | Eureka service registry           |
+| 2     | **config-server**     | 8888 | Centralized configuration         |
+| 3     | **api-gateway**       | 8080 | Routes requests to other services |
+| 4     | **user-service**      | 8081 | Manages users                     |
+| 5     | **grievance-service** | 8082 | Manages grievances                |
+| 6     | **bookmark-service**  | 8083 | Manages bookmarks                 |
+
