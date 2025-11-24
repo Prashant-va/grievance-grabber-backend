@@ -7,8 +7,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/bookmark_db?createDatabaseIfNotExist=true&serverTimezone=UTC
-    username: root
-    password: Pavitra@22
+    username: #your username
+    password: #your password
 
   jpa:
     hibernate:
