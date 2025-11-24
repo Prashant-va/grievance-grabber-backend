@@ -13,8 +13,8 @@ spring:
     import: optional:configserver:http://localhost:8888
   datasource:
     url: jdbc:mysql://localhost:3306/grievance_db?createDatabaseIfNotExist=true&serverTimezone=UTC
-    username: root
-    password: Pavitra@22
+    username: #your usename
+    password: #your password
   jpa:
     hibernate:
       ddl-auto: update
